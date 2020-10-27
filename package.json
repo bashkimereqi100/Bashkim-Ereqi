@@ -1,0 +1,20 @@
+{
+  "name": "bashkim-ereqi",
+  "version": "1.0.0",
+  "description": "http://bashkimereqi.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashkimereqi100/Bashkim-Ereqi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bashkimereqi100/Bashkim-Ereqi/issues"
+  },
+  "homepage": "https://github.com/bashkimereqi100/Bashkim-Ereqi#readme"
+}
